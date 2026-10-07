@@ -1,0 +1,24 @@
+# Final Submission Checklist — Group I Professional Portfolio
+
+- [x] Five main HTML pages exist
+- [x] All five pages are connected with relative hyperlinks
+- [x] Home page uses semantic HTML and contains an article
+- [x] About page contains an ordered list and description list
+- [x] Gallery contains at least three images
+- [x] Gallery images use figure, figcaption and descriptive alt text
+- [x] Gallery contains a short HTML5 website preview video
+- [x] Gallery also contains an object design resource
+- [x] Data page uses caption, thead, tbody, tfoot and scope
+- [x] Data page lists all 10 group members and their contribution areas
+- [x] Contact form contains Name, Email, Phone and Message fields
+- [x] Form fields have labels and HTML5 validation
+- [x] Every page has a unique title
+- [x] HTML comments document major structures
+- [x] Sitemap is included
+- [x] Home wireframe is included
+- [x] Gallery wireframe is included
+- [x] No CSS is used
+- [x] No JavaScript or external framework is used
+- [x] Group name is consistently shown as Group I Professional Portfolio
+- [x] Course name is written as Internet Technologies and Web Design where needed
+- [x] Git/GitHub contribution plan is documented for all 10 members
