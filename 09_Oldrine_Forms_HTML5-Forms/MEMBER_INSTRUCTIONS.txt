@@ -1,0 +1,28 @@
+GROUP I PROFESSIONAL PORTFOLIO — MEMBER CONTRIBUTION
+
+MEMBER: Oldrine
+AREA IN GROUP SKILLS TABLE: Forms
+SKILL / CONTRIBUTION: HTML5 Forms
+
+WHAT YOU SHOULD COMMIT
+Your contribution matches the Group Skills table: Forms — HTML5 forms. Add contact.html with labels, email/tel input types and HTML5 validation.
+
+FILES IN THIS ZIP
+- contact.html
+
+SUGGESTED COMMIT MESSAGE
+Add HTML5 contact form
+
+HOW TO COMMIT
+1. Pull the latest version of the shared GitHub repository first.
+2. Extract this ZIP.
+3. Copy ONLY the assigned files/folders into the repository, preserving the same paths.
+4. Do not delete or replace other members' files unless your assigned file is the one being updated.
+5. Run: git status
+6. Run: git add contact.html
+7. Run: git commit -m "Add HTML5 contact form"
+8. Run: git push
+9. Confirm your commit appears on GitHub under your own GitHub account.
+
+IMPORTANT
+Use your own Git/GitHub identity. Do not share passwords or tokens. If another member has pushed before you, pull before committing to reduce conflicts.
