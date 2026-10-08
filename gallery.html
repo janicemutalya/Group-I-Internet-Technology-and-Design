@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Accessible media gallery for Group I Professional Portfolio showing web development, teamwork and version control.">
+    <title>Group I Professional Portfolio | Gallery</title>
+</head>
+<body>
+    <header>
+        <h1>Group I Professional Portfolio</h1>
+        <p>Media gallery for our Internet Technologies and Web Design portfolio project.</p>
+    </header>
+
+    <nav aria-label="Main navigation">
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="gallery.html">Gallery</a> |
+    <a href="data.html">Group Skills</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+    <hr>
+
+    <main>
+        <section>
+            <h2>Project Images</h2>
+            <!-- Figure groups each image with a meaningful caption. -->
+            <figure>
+                <img src="images/web-development.png" alt="Illustration representing semantic HTML5 web development and connected portfolio pages" width="360">
+                <figcaption>Web development: building structured pages with semantic HTML5.</figcaption>
+            </figure>
+            <figure>
+                <img src="images/team-collaboration.png" alt="Illustration representing ten students collaborating on one shared web design assignment" width="360">
+                <figcaption>Team collaboration: ten members sharing responsibilities in one project.</figcaption>
+            </figure>
+            <figure>
+                <img src="images/version-control.png" alt="Illustration representing Git and GitHub version control for recording group contributions" width="360">
+                <figcaption>Version control: Git and GitHub record the work contributed by group members.</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Website Preview Video</h2>
+            <p>This short video gives a quick preview of the five pages in our Group I portfolio.</p>
+            <!-- The video element provides accessible HTML5 multimedia without JavaScript or external services. -->
+            <video width="720" controls>
+                <source src="videos/group-i-site-preview.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+                <a href="videos/group-i-site-preview.mp4">Open the website preview video</a>.
+            </video>
+        </section>
+
+        <section>
+            <h2>Embedded Design Resource</h2>
+            <p>The object element below embeds our sitemap as an additional local design resource.</p>
+            <!-- Object demonstrates another HTML5 method for embedding a local resource. -->
+            <object data="design/sitemap.png" type="image/png" width="700" height="450">
+                <p>Your browser could not display the sitemap image. <a href="design/sitemap.png">Open the sitemap directly</a>.</p>
+            </object>
+        </section>
+    </main>
+
+    <footer>
+    <hr>
+    <p>&copy; 2026 Group I Professional Portfolio | Internet Technologies and Web Design.</p>
+</footer>
+</body>
+</html>
