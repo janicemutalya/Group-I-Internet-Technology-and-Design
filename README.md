@@ -3,7 +3,7 @@
 **Course:** Internet Technologies and Web Design  
 **Project:** Professional Semantic Portfolio  
 **Group:** Group I  
-**Members:** David, Daniella, Janice, Oliver, Elton, Jesse, Victor, Juniorofamba, Oldrine and Vmilia
+**Members:** David, Daniella, Janice, Oliver, Elton, Jesse, Victor, Juniorofamba, Oldrine,Mpiima and Vmilia
 
 ## Purpose
 This project is a five-page HTML5 group portfolio demonstrating semantic structure, relative hyperlinks, lists, multimedia, accessible images, structured tables, HTML5 forms, documentation comments and Git/GitHub collaboration.
