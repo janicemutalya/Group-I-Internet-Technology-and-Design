@@ -11,6 +11,7 @@ Each member should make a genuine contribution and commit it using their own Git
 7. **Victor — Media: HTML5 multimedia** — `gallery.html` and the short website preview video
 8. **Juniorofamba — Data: HTML tables** — `data.html` structured group skills table
 9. **Oldrine — Forms: HTML5 forms** — `contact.html`, labels, input types and HTML5 validation
-10. **Vmilia — Quality: Documentation and validation** — README, contribution notes, comments, titles, link/accessibility checks and final checklist
+10. **Mpiima — Planning:  wireframing** — wireframe
+11. **Vmilia — Quality: Documentation and validation** — README, contribution notes, comments, titles, link/accessibility checks and final checklist
 
 Recommended sequence: each member pulls the latest repository before adding their contribution, commits using their own GitHub account, and pushes before the next member works.
